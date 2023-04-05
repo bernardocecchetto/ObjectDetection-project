@@ -1,0 +1,158 @@
+
+
+            item {
+                name: '0'
+                id: person
+            }
+
+
+
+
+            item {
+                name: '1'
+                id: horse
+            }
+
+
+
+
+            item {
+                name: '2'
+                id: aeroplane
+            }
+
+
+
+
+            item {
+                name: '3'
+                id: tvmonitor
+            }
+
+
+
+
+            item {
+                name: '4'
+                id: motorbike
+            }
+
+
+
+
+            item {
+                name: '5'
+                id: dog
+            }
+
+
+
+
+            item {
+                name: '6'
+                id: sofa
+            }
+
+
+
+
+            item {
+                name: '7'
+                id: bicycle
+            }
+
+
+
+
+            item {
+                name: '8'
+                id: car
+            }
+
+
+
+
+            item {
+                name: '9'
+                id: diningtable
+            }
+
+
+
+
+            item {
+                name: '10'
+                id: train
+            }
+
+
+
+
+            item {
+                name: '11'
+                id: bus
+            }
+
+
+
+
+            item {
+                name: '12'
+                id: cow
+            }
+
+
+
+
+            item {
+                name: '13'
+                id: chair
+            }
+
+
+
+
+            item {
+                name: '14'
+                id: cat
+            }
+
+
+
+
+            item {
+                name: '15'
+                id: bird
+            }
+
+
+
+
+            item {
+                name: '16'
+                id: pottedplant
+            }
+
+
+
+
+            item {
+                name: '17'
+                id: boat
+            }
+
+
+
+
+            item {
+                name: '18'
+                id: sheep
+            }
+
+
+
+
+            item {
+                name: '19'
+                id: bottle
+            }

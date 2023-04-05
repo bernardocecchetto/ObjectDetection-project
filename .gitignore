@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+Tensorflow/workspace/training_demo/images
+
 # Distribution / packaging
 .Python
 build/
