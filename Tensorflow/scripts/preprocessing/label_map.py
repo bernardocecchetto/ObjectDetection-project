@@ -49,6 +49,7 @@ def csv_to_label(input_dir: Ty.AnyStr, output_dir: Ty.AnyStr):
 
 
 def main():
+
     parser = argparse.ArgumentParser(
         description="Generating pbtxt from csv files",
         formatter_class=argparse.RawTextHelpFormatter,
